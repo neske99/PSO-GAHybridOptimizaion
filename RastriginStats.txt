@@ -1,0 +1,44 @@
+Procesor:processor:12th Gen Intel® Core™ i7-12700H × 20
+Method:Plain PSO
+Function : Rastrigin
+Swarm size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+    Time : 0.001
+    Average mistake: 3.9886183495737866
+
+
+    Time : 0.01
+    Average mistake: 0.16029395082499245
+
+
+    Time : 0.1
+    Average mistake: 1.0125781869874118e-08
+
+
+    Time : 1
+    Average mistake: 0.0
+
+Method : Goal driven generational learning
+Population size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+Life expectancy: 50
+    Time : 0.001
+    Average mistake: 6.015852361859528
+
+
+    Time : 0.01
+    Average mistake: 1.186315402517274
+
+
+    Time : 0.1
+    Average mistake: 0.018554605321310567
+
+
+    Time : 1
+    Average mistake: 2.96269252686443e-10

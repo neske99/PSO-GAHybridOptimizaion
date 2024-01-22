@@ -1,0 +1,65 @@
+Function : rosenbrock
+Population size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+Life expectancy: 50
+    Time : 0.001
+    Average mistake: 3.067895231087318
+
+
+    Time : 0.01
+    Average mistake: 0.235373627677686
+
+
+    Time : 0.1
+    Average mistake: 7.790964562498552e-05
+
+
+    Time : 1
+    Average mistake: 8.451298807327107e-12
+
+Function : Rastrigin
+Population size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+Life expectancy: 50
+    Time : 0.001
+    Average mistake: 6.015852361859528
+
+
+    Time : 0.01
+    Average mistake: 1.186315402517274
+
+
+    Time : 0.1
+    Average mistake: 0.018554605321310567
+
+
+    Time : 1
+    Average mistake: 2.96269252686443e-10
+
+Function : Shaffer
+Population size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+Life expectancy: 50
+    Time : 0.001
+    Average mistake: 0.007441868450221093
+
+
+    Time : 0.01
+    Average mistake: 0.0003603962438841692
+
+
+    Time : 0.1
+    Average mistake: 2.0003806944224323e-09
+
+
+    Time : 1
+    Average mistake: 9.71445146547012e-16

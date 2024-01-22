@@ -1,0 +1,65 @@
+Procesor:processor:12th Gen Intel® Core™ i7-12700H × 20
+
+Function : Rosenbrock
+Swarm size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+    Time : 0.001
+    Average mistake: 1.8582551273428347
+
+
+    Time : 0.01
+    Average mistake: 0.014757757255664706
+
+
+    Time : 0.1
+    Average mistake: 7.658850504404248e-15
+
+
+    Time : 1
+    Average mistake: 0.0
+
+Function : Rastrigin
+Swarm size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+    Time : 0.001
+    Average mistake: 3.9886183495737866
+
+
+    Time : 0.01
+    Average mistake: 0.16029395082499245
+
+
+    Time : 0.1
+    Average mistake: 1.0125781869874118e-08
+
+
+    Time : 1
+    Average mistake: 0.0
+
+Function : Shaffer
+Swarm size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+    Time : 0.001
+    Average mistake: 0.005287713421096988
+
+
+    Time : 0.01
+    Average mistake: 4.9128414442081214e-05
+
+
+    Time : 0.1
+    Average mistake: 1.0414669127101206e-14
+
+
+    Time : 1
+    Average mistake: 0.0
+

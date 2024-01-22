@@ -1,0 +1,44 @@
+Procesor:processor:12th Gen Intel® Core™ i7-12700H × 20
+Method:Plain PSO
+Function : Rosenbrock
+Swarm size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+    Time : 0.001
+    Average mistake: 1.8582551273428347
+
+
+    Time : 0.01
+    Average mistake: 0.014757757255664706
+
+
+    Time : 0.1
+    Average mistake: 7.658850504404248e-15
+
+
+    Time : 1
+    Average mistake: 0.0
+
+Method : goal driven generational learning
+Population size: 50
+Num dimensions: 2
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+Life expectancy: 50
+    Time : 0.001
+    Average mistake: 3.067895231087318
+
+
+    Time : 0.01
+    Average mistake: 0.235373627677686
+
+
+    Time : 0.1
+    Average mistake: 7.790964562498552e-05
+
+
+    Time : 1
+    Average mistake: 8.451298807327107e-12
