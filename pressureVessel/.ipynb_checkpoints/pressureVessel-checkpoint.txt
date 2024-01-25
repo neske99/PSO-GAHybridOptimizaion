@@ -1,0 +1,76 @@
+method : myHybrid
+Swarm size: 50
+Num dimensions: 4
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+life_expectancy: 10
+
+    Time : 0.001
+    NumHits : 319/1000
+    Average minimum: 20362.648046978542
+
+
+    Time : 0.01
+    NumHits : 262/1000
+    Average minimum: 15097.817554426572
+
+
+    Time : 0.1
+    NumHits : 182/1000
+    Average minimum: 10048.394462206283
+
+
+    Time : 1
+    NumHits : 197/1000
+    Average minimum: 7832.455968444094
+
+Method : study Hybrid
+Swarm size: 50
+Num dimensions: 5
+c_i: 0.7
+c_p: 1.0
+c_g: 1.0
+ga_min_num : 10
+ga_max_num :50
+ga_min_ps : 50
+ga_max_ps : 100
+ga_min_iter : 20
+ga_max_iter : 100
+y : 2
+b :3
+    Time : 0.05
+    NumHits : 825/1000
+    Average minimum: 10371.056697041202
+
+
+    Time : 0.1
+    NumHits : 824/1000
+    Average minimum: 10090.475710738341
+
+
+    Time : 1
+    NumHits : 823/1000
+    Average minimum: 7911.2155552107215
+
+Method : GA
+Population size: 50
+Num dimensions: 5
+    Time : 0.001
+    NumHits : 826/1000
+    Average minimum: 47278.779726607216
+
+
+    Time : 0.01
+    NumHits : 799/1000
+    Average minimum: 48278.058944957746
+
+
+    Time : 0.1
+    NumHits : 805/1000
+    Average minimum: 47913.48869576948
+
+
+    Time : 1
+    NumHits : 790/1000
+    Average minimum: 46872.178453021836
